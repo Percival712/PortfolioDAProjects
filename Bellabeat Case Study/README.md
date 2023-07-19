@@ -22,7 +22,7 @@ The data source used for this case study is FitBit Fitness Tracker Data. This da
 This particular dataset was compiled through a distributed survey conducted via Amazon Mechanical Turk between 03.12.2016 and 05.12.2016. It includes data provided by 33 Fitbit users who voluntarily participated in the survey and consented to sharing their personal tracker data. The dataset encompasses minute-level information on physical activity, heart rate, and sleep monitoring.
 
 Furthermore, the variation observed in the dataset output can be attributed to the usage of diverse Fitbit tracker models as well as individual differences in tracking behaviors and preferences.
-# Conclusion & Findings
+# Findings
 1. Obtaining significant insights without introducing potential biases is challenging due to the limited sample size of 33 participants and the lack of information regarding their genders and diverse backgrounds, thus highlighting the absence of diverse demographic information.
 
 2. Based on the analysis conducted using the available data, a notable 93.5% were 'Active Users' meaning that they utilized their FitBit device consistently throughout the 31-day period.
