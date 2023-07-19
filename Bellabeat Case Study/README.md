@@ -37,10 +37,14 @@ Furthermore, the variation observed in the dataset output can be attributed to t
 # Recommendations
 ### Improve Data Collection
 
-Increase User Sample Size: To gain stronger actionable insights, Bellabeat must conduct an analysis using a larger, randomized sample size, with specific gender information. The provided sample size does not provide enough information to improve products/services, or make informed decisions. Increase # of User Inputs: Simplify the user information input process (such as weight, height, age, BMI, etc.) to strengthen the data points used in this analysis. This improved user experience would encourage more users to provide more information, highlighting the value it brings in personalized offerings.
+Increase User Sample Size: To gain stronger actionable insights, Bellabeat must conduct an analysis using a larger, randomized sample size, with specific gender information. The provided sample size does not provide enough information to improve products/services, or make informed decisions. 
+
+Increase # of User Inputs: Simplify the user information input process (such as weight, height, age, BMI, etc.) to strengthen the data points used in this analysis. This improved user experience would encourage more users to provide more information, highlighting the value it brings in personalized offerings.
 
 ### Improve Daily User Experience
 
-Improve Daily Experience: Implement daily reminders within the app or Hardware to encourage users to maintain a healthy charge level, the reminder will help ensure that users have consistent device functionality and engagement. Sending daily notifications to users would prompt them to "Take a Walk" or "Get Ready for Bed," especially on days where users have no activity. This would support the development of healthy routines and foster positive lifestyle changes. These reminders can assist users in establishing consistent schedules and adopting healthier habits. Create Goal Recognition: Incorporate personal goals that reward badges, providing incentives for users to maintain consistent schedules and engage with the app regularly. These badges can serve as a form of recognition and motivation, encouraging users to stay committed to their health and wellness journey.
+Improve Daily Experience: Implement daily reminders within the app or Hardware to encourage users to maintain a healthy charge level, the reminder will help ensure that users have consistent device functionality and engagement. Sending daily notifications to users would prompt them to "Take a Walk" or "Get Ready for Bed," especially on days where users have no activity. This would support the development of healthy routines and foster positive lifestyle changes. These reminders can assist users in establishing consistent schedules and adopting healthier habits. 
+
+Create Goal Recognition: Incorporate personal goals that reward badges, providing incentives for users to maintain consistent schedules and engage with the app regularly. These badges can serve as a form of recognition and motivation, encouraging users to stay committed to their health and wellness journey.
 
 By implementing these recommendations, Bellabeat can enhance user engagement, facilitate healthy lifestyle changes, and provide a more personalized and rewarding experience for their users.
