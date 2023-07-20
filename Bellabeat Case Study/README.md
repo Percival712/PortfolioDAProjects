@@ -23,6 +23,7 @@ This particular dataset was compiled through a distributed survey conducted via 
 
 Furthermore, the variation observed in the dataset output can be attributed to the usage of diverse Fitbit tracker models as well as individual differences in tracking behaviors and preferences.
 # Findings
+#### KPIs & Metrics
 - Obtaining significant insights without introducing potential biases is challenging due to the limited sample size of 33 participants and the lack of information regarding their genders and diverse backgrounds, thus highlighting the absence of diverse demographic information.
 - Based on the analysis conducted using the available data, a notable 93.5% were 'Active Users' meaning that they utilized their FitBit device consistently throughout the 31-day period.
 - The analysis of the users' average activity time revealed that 27 out of the 33 participants successfully achieved the recommended weekly activity of 150 minutes, as suggested by the CDC.
