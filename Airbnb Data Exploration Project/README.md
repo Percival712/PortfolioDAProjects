@@ -22,7 +22,7 @@ Datasets will be focused specifically on the city of London Sources: Airbnb Data
 - Hackney had the lowest availability listed out of all neighborhoods, with only 33 listings.
 - Westminster also has the median price of 140 a night, whereas the city of london has the median price listed at 150 a night.
 # Conclusion
-In order to draw stronger recommendations, more data is required. This would include gathering data for revenue and occupancy rates of each listing.
+In order to draw stronger recommendations, **more data is required.** This would include gathering data for revenue and occupancy rates of each listing.
 
 However, with the data collected, the “City of London” neighborhood could be a suitable area for someone to list new properties since there is an underwhelming amount of listings in comparison to the neighboring city of Westminster. Furthermore, the median listing price has a difference of only 10 per night between the two cities which in return could mean the City of London has an area of opportunity for profit.
 
