@@ -23,17 +23,13 @@ This particular dataset was compiled through a distributed survey conducted via 
 
 Furthermore, the variation observed in the dataset output can be attributed to the usage of diverse Fitbit tracker models as well as individual differences in tracking behaviors and preferences.
 # Findings
-1. Obtaining significant insights without introducing potential biases is challenging due to the limited sample size of 33 participants and the lack of information regarding their genders and diverse backgrounds, thus highlighting the absence of diverse demographic information.
+- Obtaining significant insights without introducing potential biases is challenging due to the limited sample size of 33 participants and the lack of information regarding their genders and diverse backgrounds, thus highlighting the absence of diverse demographic information.
+- Based on the analysis conducted using the available data, a notable 93.5% were 'Active Users' meaning that they utilized their FitBit device consistently throughout the 31-day period.
+- The analysis of the users' average activity time revealed that 27 out of the 33 participants successfully achieved the recommended weekly activity of 150 minutes, as suggested by the CDC.
+- Based on research studies, including guidance from the Centers for Disease Control and Prevention (CDC), it is recommended to achieve a daily step count of 10,000 for optimal health. However, in our analysis, the average user falls short of this minimum goal, with only 7 out of the 33 participants managing to reach it.
+- However, Saturday stood out with the highest average steps, followed by the early weekdays (Monday and Tuesday). This pattern indicates a potential trend where users strive to be more active immediately after the weekend, as evidenced by lower step counts on Sunday and moderately lower counts on Friday. Moreover, Saturday presents ample opportunities for increased physical activity and movement.
 
-2. Based on the analysis conducted using the available data, a notable 93.5% were 'Active Users' meaning that they utilized their FitBit device consistently throughout the 31-day period.
-
-3. The analysis of the users' average activity time revealed that 27 out of the 33 participants successfully achieved the recommended weekly activity of 150 minutes, as suggested by the CDC.
-
-4. Based on research studies, including guidance from the Centers for Disease Control and Prevention (CDC), it is recommended to achieve a daily step count of 10,000 for optimal health. However, in our analysis, the average user falls short of this minimum goal, with only 7 out of the 33 participants managing to reach it.
-
-5. However, Saturday stood out with the highest average steps, followed by the early weekdays (Monday and Tuesday). This pattern indicates a potential trend where users strive to be more active immediately after the weekend, as evidenced by lower step counts on Sunday and moderately lower counts on Friday. Moreover, Saturday presents ample opportunities for increased physical activity and movement.
-
-6. According to the analysis of participants' sleep patterns, individuals who averaged at least 5 hours of sleep tended to burn more calories during the day.
+- According to the analysis of participants' sleep patterns, individuals who averaged at least 5 hours of sleep tended to burn more calories during the day.
 # Recommendations
 ### Improve Data Collection
 
