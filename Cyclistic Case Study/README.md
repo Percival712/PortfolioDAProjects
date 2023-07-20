@@ -21,7 +21,7 @@ User data from the past 12 months, January 2022- December 2022 is available to f
 
 (This data has been made publicly and available by Motivate International Inc. under this license https://www.divvybikes.com/data-license-agreement)
 # Findings
-### KPIs & Metrics
+#### KPIs & Metrics
 - Among the bikes used, Annual Members utilized them more than Casual Customers.
 - Casual customers showed a preference for electric bikes the most, with 53% favoring them, followed closely by the classic bike. However, the docked bike saw low usage at only 8%.
 - Annual members had an equal distribution between the classic bike (51%) and electric bike (49%), but the docked bike was not used at all.
