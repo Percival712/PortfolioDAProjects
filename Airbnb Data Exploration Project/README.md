@@ -12,6 +12,7 @@ Data collection: The Datasets provided are from Airbnb data.
 
 Datasets will be focused specifically on the city of London Sources: Airbnb Data: https://www.kaggle.com/datasets/whenamancodes/london-uk-airbnb-open-data 
 # Findings
+#### KPIs & Metrics
 - Westminster has the highest count of total listings at 82,350. Although a more popular destination, The City of London only has 2,562 listings.
 - Westminster has the most hosts registered at 4,276, the most out of all the neighborhoods.
 - The majority of hosts (24,681) have entire homes and/or apartments listed in London. Private rooms are made up of 19,993 hosts, with only 228 hosts listing hotels.
