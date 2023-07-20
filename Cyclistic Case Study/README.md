@@ -22,18 +22,12 @@ User data from the past 12 months, January 2022- December 2022 is available to f
 (This data has been made publicly and available by Motivate International Inc. under this license https://www.divvybikes.com/data-license-agreement)
 # Findings
 ### KPIs & Metrics
-
-Among the bikes used, Annual Members utilized them more than Casual Customers.
-
-Casual customers showed a preference for electric bikes the most, with 53% favoring them, followed closely by the classic bike. However, the docked bike saw low usage at only 8%.
-
-Annual members had an equal distribution between the classic bike (51%) and electric bike (49%), but the docked bike was not used at all.
-
-Peak times tended to occur later in the day, and Casual customers rode more frequently than annual members.
-
-Throughout the week, rides were consistent, except for Thursday and Saturday, when casual customers tended to ride more often than annual members.
-
-As the summer months approached, the number of bike rides increased dramatically. Casual customers significantly outpaced annual members in the total rides throughout the year.
+- Among the bikes used, Annual Members utilized them more than Casual Customers.
+- Casual customers showed a preference for electric bikes the most, with 53% favoring them, followed closely by the classic bike. However, the docked bike saw low usage at only 8%.
+- Annual members had an equal distribution between the classic bike (51%) and electric bike (49%), but the docked bike was not used at all.
+- Peak times tended to occur later in the day, and Casual customers rode more frequently than annual members.
+- Throughout the week, rides were consistent, except for Thursday and Saturday, when casual customers tended to ride more often than annual members.
+- As the summer months approached, the number of bike rides increased dramatically. Casual customers significantly outpaced annual members in the total rides throughout the year.
 # Recommendations
 1. Establish partnerships with social media influencers to create collaborative content promoting Cyclistic and highlighting the advantages of using the bikes. By enlisting influencers as brand ambassadors, they can offer exclusive sign-up discounts through their dedicated codes shared in their social media posts.
 
