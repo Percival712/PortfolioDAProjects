@@ -3,7 +3,7 @@ This project involves an in-depth exploration of Airbnb Host Listings Data using
 
 ![image](https://github.com/Percival712/PortfolioProjects/assets/132723218/dbac73f5-125a-4a4d-a1fd-5ef4d4eb99c2)
 
-# Business Task
+# Task
 Guiding Questions:
 
 What can we learn from predictions? (ex. Locations, prices,reviews etc.)
