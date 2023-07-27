@@ -1,5 +1,8 @@
 # Airbnb Data Exploration Project
 This project analyzes Airbnb host listings data using SQL and visualizations created in Tableau. The goal of this project was to discover insights about the different neighborhood listings from Hosts in the City of London. Ask Phase Objective What can we learn about the different hosts and areas in London? Understanding the different types of units listed. Identify key insights on the neighborhoods in London that can be suitable ideas for the company.**Tableau visuals can be viewed** [here](https://public.tableau.com/app/profile/giankarlo.alvarado/viz/AirbnbCityofLondon/AirbnbdetailsofLondon#2) 
+
+![image](https://github.com/Percival712/PortfolioProjects/assets/132723218/dbac73f5-125a-4a4d-a1fd-5ef4d4eb99c2)
+
 # Business Task
 Guiding Questions:
 
