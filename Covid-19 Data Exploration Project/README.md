@@ -1,5 +1,5 @@
 # Covid-19 Data Exploration Project
-This project analyzes COVID-19 data from January 2020 to July 2023. Basic to advanced SQL queries are run to answer questions and identify trends throughout the pandemic. Once the data exploration in SQL is complete, the queries from SQL are used to create data visualizations in Tableau. **View my Visualizations** [here](https://public.tableau.com/app/profile/giankarlo.alvarado/viz/Covid-19ProjectVizualizations/Dashboard1)
+This project explores COVID-19 data, specifically information on deaths and vaccinations over the course of January 2020 to July 2023. It involves performing a range of SQL queries, from basic to advanced, to identify patterns and trends throughout the COVID-19 timeline. Once the data exploration is concluded in SQL, these queries are utilized to generate data visualizations using Tableau. **View my Visualizations** [here](https://public.tableau.com/app/profile/giankarlo.alvarado/viz/Covid-19ProjectVizualizations/Dashboard1)
 
 ![image](https://github.com/Percival712/PortfolioProjects/assets/132723218/aa62a250-a9e3-4998-8465-d560bfbbda6e)
 
