@@ -3,7 +3,7 @@ This project analyzes COVID-19 data from January 2020 to July 2023. Basic to adv
 
 ![image](https://github.com/Percival712/PortfolioProjects/assets/132723218/aa62a250-a9e3-4998-8465-d560bfbbda6e)
 
-# Business Task
+# Task
 The objective of this project is to analyze COVID-19 data from 2020 to 2023 using SQL queries. I focused on exploring insights specific to the United States. Additionally, I also delved into global and regional data during the exploration.
 
 # About the Data
