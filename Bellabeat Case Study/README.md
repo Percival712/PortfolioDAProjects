@@ -1,5 +1,9 @@
 # Bellabeat Case Study
 I am a junior data analyst working in the marketing analyst team at Bellabeat. Urška Sršen, co-founder and Chief Creative Officer of Bellabeat, believes that analyzing smart device fitness data could help unlock new growth opportunities for the company. I am tasked to work on one of Bellabeat’s products and analyze smart device data to gain insight into how consumers are using their smart devices. The insights I discover will then help guide marketing strategy for the company. In this case study, I will present my analysis to the Bellabeat executive team along with my high-level recommendations for Bellabeat’s marketing strategy.
+
+![image](https://github.com/Percival712/PortfolioProjects/assets/132723218/9e682fa0-add4-41f4-b5db-8ecaedd75030)
+
+
 # Business Task
 Through an in-depth analysis of Fitbit Fitness Tracker Data, Bellabeat aims to extract valuable insights regarding the usage patterns of smart devices. By leveraging this information, Bellabeat intends to enhance its understanding of customer preferences, optimize its product and service offerings, devise targeted marketing campaigns, and leverage emerging trends to drive consistent business growth.
 
