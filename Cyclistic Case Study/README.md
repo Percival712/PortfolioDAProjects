@@ -1,5 +1,8 @@
 # Cyclistic Case Study
 I am a junior data analyst working with the marketing analyst team at Cyclistic, a bike-share company in Chicago. The director of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore, my team wants to understand how casual riders and annual members use Cyclistic bikes differently. From these insights, the team will design a new marketing strategy to convert casual riders into annual members. But first, Cyclistic executives must approve the recommendations, so they must be backed up with compelling data insights and professional data visualizations. This case study follows the 6 steps of the data analysis process: Ask, Prepare, Process, Analyze, Share, Act.
+
+![image](https://github.com/Percival712/PortfolioProjects/assets/132723218/d373a63b-1a7b-46fe-95e4-e979f6a8c780)
+
 # Business Task
 This analysis will examine the business task: By using historical bike trip data, What trends can be uncovered and can help the Marketing team launch an effective campaign that will convert casual riders to Cyclistic annual members?
 
